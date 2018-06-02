@@ -16,6 +16,6 @@ This was the 4th CTF , published on Nakerah network [Link](https://www.nakerah.n
 The writeup is publicly available [Here](https://www.nakerah.net/index.php?resources/nakerah-ctf-0x04-write-up.204/)
 
 ### [+] Acquired Skills through solving
-- Cryptanalysis & Determining mechanism's weakness
-- Reading low level
-- ReverseEngineer
+- Cryptanalysis
+- x86 Assembly
+- Reverse Engineering

@@ -1,4 +1,4 @@
-## Capture the Flag 01
+## Capture the Flag 1.0
 
 This was the 4th CTF , published on Nakerah network [Link](https://www.nakerah.net/index.php?threads/ctf-0x04-closed.116/)
 
